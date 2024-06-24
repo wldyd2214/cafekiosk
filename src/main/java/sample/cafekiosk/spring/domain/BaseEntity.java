@@ -1,4 +1,4 @@
-package sample.cafekiosk.spring.domain.product;
+package sample.cafekiosk.spring.domain;
 
 import jakarta.persistence.EntityListeners;
 import jakarta.persistence.MappedSuperclass;

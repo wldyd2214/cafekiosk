@@ -6,9 +6,8 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import sample.cafekiosk.spring.domain.orderproduct.OrderProduct;
-import sample.cafekiosk.spring.domain.product.BaseEntity;
+import sample.cafekiosk.spring.domain.BaseEntity;
 import sample.cafekiosk.spring.domain.product.Product;
-import sample.cafekiosk.spring.domain.product.ProductType;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
